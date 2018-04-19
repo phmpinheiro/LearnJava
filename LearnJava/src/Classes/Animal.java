@@ -25,7 +25,7 @@ public class Animal implements interfaceComum{
     
     public void imprimeAnimal(){
 
-        System.out.println("Método: imprimeAnimal (SuperClasse)");
+        System.out.println("M�todo: imprimeAnimal (SuperClasse)");
         System.out.println("Nome: " + this.nome);
         System.out.println("Peso: " + this.peso);
         System.out.println("Classificação: " + this.classificacao);
