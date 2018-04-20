@@ -3,7 +3,7 @@ package UniversidadeXTI.Aulas;
 import Classes.Carro;
 import Classes.Motor;
 
-public class Aula_45{
+public class Poo_Aula_45{
     
     public static void main(String[] args){
         

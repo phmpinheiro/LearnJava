@@ -2,7 +2,7 @@ package UniversidadeXTI.Aulas;
 
 import Classes.Funcionario;
 
-public class Aula_40{
+public class AddAddAdd_Aula40{
     
     public static void main(String[] Args){ //Método get e set
 

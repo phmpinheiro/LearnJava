@@ -1,6 +1,6 @@
 package UniversidadeXTI.Aulas;
 
-public class Aula_57{
+public class Array_Aula_57{
     
     public static void main(String[] Args){
         

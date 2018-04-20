@@ -3,7 +3,7 @@ package UniversidadeXTI.Aulas;
 import Classes.Cachorro;
 import Classes.Galinha;
 
-public class Aula_47{
+public class Heranca_Aula_47{
     
     public static void main(String[] args){ //Heran√ßa de classe
         
@@ -19,11 +19,11 @@ public class Aula_47{
         
     }
      /*
-     Teste para saber se √© interessante fazer a extens√£o de classe.
-     Somente pode ser extendida uma classe quando √© poss√≠vel fazer a pergunta "√© um" ?
-     ou seja.. Cachorro "√© um" animal? Se a resposta for SIM, tudo bem.
+     Teste para saber se È interessante fazer a extens„o de classe.
+     Somente pode ser extendida uma classe quando È possÌvel fazer a pergunta "… um" ?
+     ou seja.. Cachorro "… um" animal? Se a resposta for SIM, tudo bem.
              
-     1. Cachorro √â UM animal? SIM - Faz sentido.
-     2. Bebida √â UM bebida? N√£o - √© o contr√°rio.     
+     1. Cachorro … UM animal? SIM - Faz sentido.
+     2. Bebida … UM bebida? N„o - … o contr·rio.     
     */   
 }

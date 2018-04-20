@@ -2,7 +2,7 @@ package UniversidadeXTI.Aulas;
 
 import Classes.Cachorro;
 
-public class Aula_52 {
+public class Poo_Aula_52 {
 
     
     public static void main(String[] Args){

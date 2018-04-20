@@ -1,7 +1,7 @@
 
 package UniversidadeXTI.Aulas;
 
-public class Aula_58 {
+public class Strings_Aula_58 {
     
     public static void main(String[] Args){ //Teste de Strings
                 

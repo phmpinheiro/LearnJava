@@ -4,7 +4,7 @@ import Classes.Cachorro;
 import Classes.Galinha;
 import Classes.Animal;
 
-public class Aula_54_2 {
+public class Try_Except_Aula_54_2 {
     
     public static void main(String[] Args){ //Erros Comuns
         

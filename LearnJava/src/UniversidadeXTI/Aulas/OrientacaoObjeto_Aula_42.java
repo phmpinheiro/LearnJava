@@ -2,7 +2,7 @@ package UniversidadeXTI.Aulas;
 
 import Classes.Matematica;
 
-public class Aula_42{
+public class OrientacaoObjeto_Aula_42{
     
     
     public static void main(String[] args){      

@@ -1,6 +1,6 @@
 package UniversidadeXTI.Aulas;
 
-public class Aula_61{
+public class RegularExpression_61{
     
     public static void main(String[] Args){ //Regular Expression
         

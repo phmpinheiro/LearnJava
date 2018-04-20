@@ -2,7 +2,7 @@ package UniversidadeXTI.Aulas;
 
 import Exceptions.SenhaInvalidaException;
 
-public class Aula_55{
+public class TesteSenha_Aula_55{
     
     public static void testaSenha(String pSenha) throws SenhaInvalidaException{
         

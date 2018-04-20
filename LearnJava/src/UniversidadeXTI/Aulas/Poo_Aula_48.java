@@ -5,7 +5,7 @@ import Classes.Galinha;
 import Classes.Animal;
 import Enumeracoes.ClassificacaoAnimal;
 
-public class Aula_48 {
+public class Poo_Aula_48 {
     
     public static void main(String[] Args){ //Testando SuperClasse
         

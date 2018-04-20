@@ -3,7 +3,7 @@ package UniversidadeXTI.Aulas;
 import Exceptions.TesteException;
 import Classes.TestesDiversos;
 
-public class Aula_55_2{
+public class Poo_Aula_55_2{
     
     public static void main(String[] Args){
         

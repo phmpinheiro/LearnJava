@@ -2,7 +2,7 @@
 package UniversidadeXTI.Aulas;
 
 
-public class Aula_59 {
+public class Serializacao_Aula_59 {
     
     public static void main(String[] Args){ //Tokens
         

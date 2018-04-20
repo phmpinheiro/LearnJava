@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.InputMismatchException;
 import java.lang.ArithmeticException;
 
-public class Aula_54{
+public class Try_Except_Aula_54{
             
 public static void main(String[] Args){ //MultiCatch  e erros comuns      
         int a = 0;

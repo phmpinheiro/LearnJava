@@ -1,6 +1,6 @@
 package UniversidadeXTI.Aulas;
 
-public class Aula_60{
+public class HashCode_Aula_60{
     
     public static void main(String[] Args){ //StringBuilder e StringBuffer
         

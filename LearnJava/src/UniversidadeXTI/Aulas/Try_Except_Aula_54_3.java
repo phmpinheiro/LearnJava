@@ -5,7 +5,7 @@ import java.util.InputMismatchException;
 import Classes.Matematica;
 import java.*;
 
-public class Aula_54_3 {
+public class Try_Except_Aula_54_3 {
 
     public static void main(String[] Args){//throws
      

@@ -11,7 +11,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class Aula_64 { //Desafio
+public class ImportarTxt_Aula64 { //Desafio
     
     
     public static void main(String[] Args)throws IOException{

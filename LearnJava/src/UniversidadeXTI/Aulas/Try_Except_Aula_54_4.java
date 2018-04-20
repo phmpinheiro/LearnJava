@@ -2,7 +2,7 @@ package UniversidadeXTI.Aulas;
 
 import Classes.TestesDiversos;
 
-public class Aula_54_4 {   
+public class Try_Except_Aula_54_4 {   
     
         static int hexChar2int(char c) throws Exception{ 
           if(c>='0'& c<='9') return c-'0'; 

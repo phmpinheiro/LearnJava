@@ -9,7 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class Aula_63 {
+public class BufferWrite_Aula_63 {
 
     public static void main(String[] args) throws IOException{
         

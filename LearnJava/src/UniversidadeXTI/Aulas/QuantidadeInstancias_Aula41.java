@@ -2,7 +2,7 @@ package UniversidadeXTI.Aulas;
 
 import Classes.Funcionario;
 
-public class Aula_41{
+public class QuantidadeInstancias_Aula41{
     
     public static void main(String[] args){ //Variáveis e métodos estáticos
         

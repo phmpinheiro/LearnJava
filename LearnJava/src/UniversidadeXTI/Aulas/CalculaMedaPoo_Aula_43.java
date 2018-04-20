@@ -2,7 +2,7 @@ package UniversidadeXTI.Aulas;
 
 import Classes.Matematica;
 
-public class Aula_43{
+public class CalculaMedaPoo_Aula_43{
     
     public static void main(String[] args){ //Metodos sobrecarregados (diferentes assinaturas)
         

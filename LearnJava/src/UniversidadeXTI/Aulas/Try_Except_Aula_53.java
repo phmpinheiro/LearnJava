@@ -3,7 +3,7 @@ package UniversidadeXTI.Aulas;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Aula_53 {
+public class Try_Except_Aula_53 {
 
     public static void main(String[] Args){ //Try, Catch, Finally
         
